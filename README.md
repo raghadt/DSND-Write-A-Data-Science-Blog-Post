@@ -1,5 +1,6 @@
 # Write-A-Data-Science-Blog-Post
 
+## Find the blog post here (https://raghadtaleb.wordpress.com/2019/12/06/analysis-of-spotify-2018-top-tracks/)
 ## Introduction:
 A project for Udacity Data Science Nanodegree.
 
