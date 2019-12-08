@@ -35,14 +35,14 @@ Q4: what’s the relationship between loudness and energy?
 
 
 ## Files description:
-	Write A Data Science Blog Post.ipynb: The notebook where the analysis is done.
-	top2018.csv: Spotify Dataset from Kaggle.
-	README.md: know more about the project by reading this.
+Write A Data Science Blog Post.ipynb: The notebook where the analysis is done.
+top2018.csv: Spotify Dataset from Kaggle.
+README.md: know more about the project by reading this.
 
 ## Results/findings:
-    You can know more about this part by reading the blog in the link above. (https://raghadtaleb.wordpress.com/2019/12/06/analysis-of-spotify-2018-top-tracks/)
+You can know more about this part by reading the blog in the link above. (https://raghadtaleb.wordpress.com/2019/12/06/analysis-of-spotify-2018-top-tracks/)
 
 
 ## Acknowledgements
-    credit goes to Kaggle for the dataset. Learn more about the license here: (https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018/data#
-    feel free to use the code because this is open source. :) 
+credit goes to Kaggle for the dataset. Learn more about the license here: (https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018/data#
+feel free to use the code because this is open source. :) 
